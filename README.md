@@ -14,7 +14,7 @@ Create the following diagrams in StarUML:
 ```
 # DIAGRAMS:
 # Usecase diagram:
-![Screenshot 2025-05-19 101038](https://github.com/user-attachments/assets/a27af922-935d-4594-ac98-bd710dea57f2)
+![image](https://github.com/user-attachments/assets/5fbb55a5-9481-46a6-92da-c4b3dcf53357)
 # Package diagram:
 ![Screenshot 2025-05-19 102327](https://github.com/user-attachments/assets/6170d9bc-e649-4b41-bce7-2ae33403cf0d)
 # Class diagram:
